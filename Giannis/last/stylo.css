@@ -52,7 +52,8 @@
 /* */
 
 body{
-  background-image:url('flower2.jpg');
+  background-image:url('WAKE.jpg');
+  background-size:cover;
 }
 
 
@@ -69,14 +70,14 @@ body{
   font-family:georgia,courier,sans-serif;
 }
 
-li#one{
+li#five{
   background-image:url('./bu.jpg');
   background-size:cover;
   background-repeat:no-repeat;
 
 }
 
-li#two{
+li#four{
   background-image:url('./gandhi.jpg');
   background-size:cover;
   background-repeat:no-repeat;
@@ -91,18 +92,20 @@ li#three{
 
 }
 
-li#four{
-  background-image:url('./love.jpg');
+li#two{
+  background-image:url('./homOne.jpg');
   background-size:cover;
   background-repeat:no-repeat;
 
 }
 
 
-li#five{
-  background-image:url('./clinging.jpg');
+li#one{
+  background-image:url('./plubming.jpg');
+  background-position:center;
+
   background-size:cover;
-  background-repeat:no-repeat;
+  background-repeat:repeat;
 }
 
 
